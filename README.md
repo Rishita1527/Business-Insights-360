@@ -111,9 +111,60 @@ It enables:
 - **Supply Chain Teams** → Track forecast accuracy and optimize planning  
 - **Executives** → Make smarter and faster decisions with confidence  
 
-## 🗂️ Data Model  
+## 🗂️ Data Model
+The dashboard is powered by a well-structured Snowflake schema for efficient querying and optimized performance.  
 
-Here’s the data model used in this project:  
+![Data Model](images/"Data Model.jpg")
+
+---
+
+## 🏠 Home View
+Central navigation hub with buttons to access each domain view.  
+
+![Home View](images/home_view.png)
+
+---
+
+## 💵 Finance View
+Analyze Profit & Loss statements, Net Sales trends, and top/bottom customers & products.  
+
+![Finance View](images/finance_view.png)
+
+---
+
+## 📈 Sales View
+Customer and product performance with insights into Net Sales, Gross Margin %, and unit economics.  
+
+![Sales View](images/sales_view.png)
+
+---
+
+## 📊 Marketing View
+Market, region, product, and customer insights while tracking GM% and NP% across segments.  
+
+![Marketing View](images/marketing_view.png)
+
+---
+
+## 🚚 Supply Chain View
+Track Forecast Accuracy, Net Error, and Absolute Error with trend analysis for supply chain optimization.  
+
+![Supply Chain View](images/supply_chain_view.png)
+
+---
+
+## 👔 Executive View
+High-level performance overview including revenue by division, customers, products, and channels.  
+
+![Executive View](images/executive_view.png)
+
+---
+
+## 📦 Product View
+Insights into top/bottom products by YoY GM% growth, top markets by revenue, and post-discount % trends per customer.  
+
+![Product View](images/product_view.png)
+
 
 
 
