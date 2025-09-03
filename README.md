@@ -133,7 +133,7 @@ Customer and product performance with insights into Net Sales, Gross Margin %, a
 ## 📊 Marketing View
 Market, region, product, and customer insights while tracking GM% and NP% across segments.  
 
-![Marketing View](images/Marketing%20view.png)
+![Marketing View](images/Marketing%20View.png)
 
 ---
 
