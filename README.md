@@ -109,10 +109,10 @@ The dashboard is powered by a well-structured Snowflake schema for efficient que
 
 ---
 
-## 🏠 Home View
+## 🏠 Home Page
 Central navigation hub with buttons to access each domain view.  
 
-![Home View](images/Home%20Page.png)
+![Home Page](images/Home%20Page.png)
 
 ---
 
