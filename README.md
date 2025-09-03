@@ -114,7 +114,7 @@ It enables:
 ## 🗂️ Data Model
 The dashboard is powered by a well-structured Snowflake schema for efficient querying and optimized performance.  
 
-![Data Model](images/"Data Model.png")
+![Data Model](images/Data Model.png)
 
 ---
 
