@@ -101,6 +101,61 @@ The dashboard provides a 360° view of AtliQ Hardware’s business operations ac
 - ✅ **Executive View** – Monitor performance at a glance with revenue by division, customer, product, and channel  
 - ✅ **Product View** – Identify top/bottom products by YoY GM% growth, top markets by revenue, and post-discount % trends per customer
 
+
+## 🗂️ Data Model
+The dashboard is powered by a well-structured Snowflake schema for efficient querying and optimized performance.  
+
+![Data Model](images/Data%20Model.png)
+
+---
+
+## 🏠 Home View
+Central navigation hub with buttons to access each domain view.  
+
+![Home View](images/Home%20Page.png)
+
+---
+
+## 💵 Finance View
+Analyze Profit & Loss statements, Net Sales trends, and top/bottom customers & products.  
+
+![Finance View](images/Finance%20View.png)
+
+---
+
+## 📈 Sales View
+Customer and product performance with insights into Net Sales, Gross Margin %, and unit economics.  
+
+![Sales View](images/Sales%20View.png)
+
+---
+
+## 📊 Marketing View
+Market, region, product, and customer insights while tracking GM% and NP% across segments.  
+
+![Marketing View](images/Marketing%20view.png)
+
+---
+
+## 🚚 Supply Chain View
+Track Forecast Accuracy, Net Error, and Absolute Error with trend analysis for supply chain optimization.  
+
+![Supply Chain View](images/Supply%20Chain%20View.png)
+
+---
+
+## 👔 Executive View
+High-level performance overview including revenue by division, customers, products, and channels.  
+
+![Executive View](images/Executive%20View.png)
+
+---
+
+## 📦 Product View
+Insights into top/bottom products by YoY GM% growth, top markets by revenue, and post-discount % trends per customer.  
+
+![Product View](images/Product%20View.png)
+
 ## 🚀 Project Outcome  
 
 This project demonstrates how **1.5M+ rows of raw data** were transformed into an **interactive, decision-focused dashboard**.  
@@ -110,62 +165,6 @@ It enables:
 - **Sales & Marketing Teams** → Identify key customers, products, and markets  
 - **Supply Chain Teams** → Track forecast accuracy and optimize planning  
 - **Executives** → Make smarter and faster decisions with confidence  
-
-## 🗂️ Data Model
-The dashboard is powered by a well-structured Snowflake schema for efficient querying and optimized performance.  
-
-![Data Model](images/Data Model.png)
-
----
-
-## 🏠 Home View
-Central navigation hub with buttons to access each domain view.  
-
-![Home View](images/"Home View.png")
-
----
-
-## 💵 Finance View
-Analyze Profit & Loss statements, Net Sales trends, and top/bottom customers & products.  
-
-![Finance View](images/"Finance View.png")
-
----
-
-## 📈 Sales View
-Customer and product performance with insights into Net Sales, Gross Margin %, and unit economics.  
-
-![Sales View](images/"Sales View.png")
-
----
-
-## 📊 Marketing View
-Market, region, product, and customer insights while tracking GM% and NP% across segments.  
-
-![Marketing View](images/marketing_view.png)
-
----
-
-## 🚚 Supply Chain View
-Track Forecast Accuracy, Net Error, and Absolute Error with trend analysis for supply chain optimization.  
-
-![Supply Chain View](images/supply_chain_view.png)
-
----
-
-## 👔 Executive View
-High-level performance overview including revenue by division, customers, products, and channels.  
-
-![Executive View](images/executive_view.png)
-
----
-
-## 📦 Product View
-Insights into top/bottom products by YoY GM% growth, top markets by revenue, and post-discount % trends per customer.  
-
-![Product View](images/product_view.png)
-
-
 
 
 
