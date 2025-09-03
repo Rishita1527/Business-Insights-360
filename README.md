@@ -1,6 +1,6 @@
 # 📊 Business Insights 360 – Power BI Project  
 
-🔗 **Live Dashboard:** [Insert link]  
+🔗 **Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiNTdjYWQ1ZTUtNmNkMS00YzcxLTgwNWEtOTI4ODgyZGEzZjc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=aff7f8f1e630909d90a5)
 
 ---
 
