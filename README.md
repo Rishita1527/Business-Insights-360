@@ -114,28 +114,28 @@ It enables:
 ## 🗂️ Data Model
 The dashboard is powered by a well-structured Snowflake schema for efficient querying and optimized performance.  
 
-![Data Model](images/"Data Model.jpg")
+![Data Model](images/"Data Model.png")
 
 ---
 
 ## 🏠 Home View
 Central navigation hub with buttons to access each domain view.  
 
-![Home View](images/home_view.png)
+![Home View](images/"Home View.png")
 
 ---
 
 ## 💵 Finance View
 Analyze Profit & Loss statements, Net Sales trends, and top/bottom customers & products.  
 
-![Finance View](images/finance_view.png)
+![Finance View](images/"Finance View.png")
 
 ---
 
 ## 📈 Sales View
 Customer and product performance with insights into Net Sales, Gross Margin %, and unit economics.  
 
-![Sales View](images/sales_view.png)
+![Sales View](images/"Sales View.png")
 
 ---
 
